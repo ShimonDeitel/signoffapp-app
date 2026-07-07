@@ -1,0 +1,29 @@
+{
+  "identifier": "Signoffapp",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "signoffapp_pro",
+      "localizations": [
+        {
+          "description": "PDF approval history export and reminder to collect",
+          "displayName": "Signoff Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.signoffapp.pro",
+      "referenceName": "Signoff Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
